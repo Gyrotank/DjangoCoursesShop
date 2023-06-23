@@ -1,4 +1,4 @@
-# CoursesShop
+# DjangoCoursesShop
 
 Pet project created as part of taking Udemy online course 'Full Python Course' (https://www.udemy.com/course/python-ru/)
 
